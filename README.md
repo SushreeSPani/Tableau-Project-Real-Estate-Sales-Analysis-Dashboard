@@ -1,5 +1,9 @@
 # Tableau-Project-Real-Estate-Sales-Analysis-Dashboard
 
+## 📊 Dashboard Preview
+
+![Dashboard](Property Sales Dashboard.png)
+
 In this project, I analyzed a real estate dataset to uncover key insights about property sales across different towns and property types. The goal was to transform raw data into an interactive and visually clear dashboard that helps users quickly understand market trends.
 📊 Key Dashboard Features:
 • KPI cards showing Total Sales, Average Sale Price, Total Properties Sold, and Average Assessed Value
@@ -16,3 +20,5 @@ In this project, I analyzed a real estate dataset to uncover key insights about 
 • Data Cleaning & Visualization
 • Dashboard Design
 • KPI Creation & Interactive Filters
+
+
